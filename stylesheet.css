@@ -1,0 +1,49 @@
+.row{   
+
+    background-color:#DDA0DD;
+    color:#AFEEEE;
+    font-size:20px;
+}
+.headshot{
+    width:20%;
+   
+}
+.mid{
+    background-color:white;
+    color: #DDA0DD;
+    align-items:center;
+    font-size:50px;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+.aboutme{
+    border:1px black;   
+}
+div{
+    display: flex;
+    justify-content:space-around;
+}
+img{
+    width:500px;
+    height:500px;
+}
+h1{
+    border: dashed 2px;
+    font-family: 'Merienda', cursive;
+    padding:20px;
+}
+.p{
+    border: solid white 2px;
+    color:black;
+    font-family: 'Gaegu', cursive;
+    padding: 20px;
+}
+.headshot {
+    width: 500px;
+}
+
+
+
+
+
+
