@@ -9,7 +9,7 @@
    
 }
 .mid{
-    background-color:white;
+    background-color:	#FFC0CB ;
     color: #DDA0DD;
     align-items:center;
     font-size:50px;
@@ -28,9 +28,10 @@ img{
     height:500px;
 }
 h1{
-    border: dashed 2px;
+    border: white dashed 2px;
     font-family: 'Merienda', cursive;
-    padding:20px;
+    padding:40px;
+    color:black;
 }
 .p{
     border: solid white 2px;
@@ -41,8 +42,21 @@ h1{
 .headshot {
     width: 500px;
 }
-
-
+#contact{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 70px;
+}
+.contact1{
+    font-family: 'Chela One', cursive;
+    font-size: 50px;
+}
+body{
+    background-color:	#FFC0CB ;
+}    
+#me{
+    background-color:#DDA0DD;
+    text-align:center;
+}
 
 
 
